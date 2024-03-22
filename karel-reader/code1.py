@@ -1,4 +1,4 @@
-#topic: till new function(3)
+# topic: till new function(3), world size: 8x8
 # Program: Turn right and turn left and use function
 # --------------------------------------------------
 
